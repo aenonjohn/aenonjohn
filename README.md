@@ -8,7 +8,6 @@
     <img src="https://skillicons.dev/icons?i=java,html,css" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AenonJohnAbay&icon=0&color=0)](https://visitcount.itsvg.in)
