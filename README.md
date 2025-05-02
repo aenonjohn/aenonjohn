@@ -2,7 +2,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AenonJohnAbay&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AenonJohnAbay&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# Tech Stack:
+# Currently Learning:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,css" />
