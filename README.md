@@ -3,6 +3,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AenonJohnAbay&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
 
 ---
